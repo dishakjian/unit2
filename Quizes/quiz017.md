@@ -1,4 +1,5 @@
 # Code
+```.py
 def truth_table(n:int):
     for i in range(n):
         print(f"bit{i}", end=" | ")
@@ -10,6 +11,6 @@ def truth_table(n:int):
         print("\n")
 
 truth_table(3)
-
+```
 # Proof Code Works
 ![image](https://github.com/user-attachments/assets/07afc98b-5dc1-4eb6-8a75-5fd1c483d2a2)
